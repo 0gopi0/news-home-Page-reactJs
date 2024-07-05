@@ -28,7 +28,7 @@ const ToolBar = () => {
             <CustomButton key={title}>{title}</CustomButton>
           ))}
         </Box>
-        <Box sx={{ display: { xs: "block", sm: "none" } }}>
+        <Box sx={{ display: { xs: "block", sm: "none" }, mr: "10px" }}>
           <img src={menu} alt="menu icon" onClick={() => setTogle(!togle)} />
         </Box>
         {togle && (
