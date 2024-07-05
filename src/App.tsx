@@ -75,7 +75,6 @@ function App() {
                 color: "white",
                 backgroundColor: "black",
                 padding: "50px 30px",
-                gap: "10px",
                 display: "flex",
                 flexDirection: "column",
                 gap: "40px",
