@@ -56,7 +56,7 @@ function App() {
                   <Button
                     variant="contained"
                     sx={{
-                      backgroundColor: "black",
+                      background: "black",
                       ":hover": {
                         backgroundColor: "rgb(20 83 45)",
                         color: "white",
