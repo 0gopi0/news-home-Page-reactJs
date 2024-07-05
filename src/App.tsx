@@ -78,8 +78,8 @@ function App() {
                 display: "flex",
                 flexDirection: "column",
                 gap: "40px",
-                borderRadius: "4px",
               }}
+              className="rounded-sm"
             >
               <h2 className="text-3xl font-bold text-amber-500">New</h2>
               <Box>
